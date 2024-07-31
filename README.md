@@ -64,7 +64,7 @@ Before running the code, please prepare the above data under the './data' folder
 
 
 
-### 3. Testing
+## Testing
 Download mpnet (language feature extractor) and our pretrained model from:
 [Baidu Wangpan](https://pan.baidu.com/s/1kG_aJH3a-ZufcEPfRTpBQg) (pwd:kpho)
 
